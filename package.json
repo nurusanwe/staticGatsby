@@ -8,10 +8,17 @@
     "serve": "gatsby serve"
   },
   "dependencies": {
+    "fs": "0.0.1-security",
     "gatsby": "^1.9.273",
     "gatsby-link": "^1.6.40",
+    "gatsby-plugin-glamor": "^1.6.13",
     "gatsby-plugin-netlify": "^1.0.21",
     "gatsby-plugin-typography": "^1.7.19",
-    "typography-theme-fairy-gates": "^0.15.11"
+    "gatsby-source-filesystem": "^1.5.39",
+    "gatsby-transformer-remark": "^1.7.44",
+    "glamor": "^2.20.40",
+    "glamorous": "^4.13.1",
+    "typography-theme-fairy-gates": "^0.15.11",
+    "typography-theme-kirkham": "^0.16.3"
   }
 }
