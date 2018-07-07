@@ -1,3 +1,0 @@
-# Redirect default Netlify subdomain to primary domain
-http://candy-crush.netlify.com/* http://www.candy-crush.fr/:splat 301!
-https://candy-crush.netlify.com/* https://www.candy-crush.fr/:splat 301!
